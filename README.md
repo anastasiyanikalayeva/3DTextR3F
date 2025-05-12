@@ -22,4 +22,4 @@ This project was developed as part of my learning journey at Three.js Journey co
 
 ## Usage
 
-To view the website, simply open the link[https://anastasiyanikalayeva.github.io/3DTextR3F/] in your web browser.
+To view the website, simply open the [link](https://anastasiyanikalayeva.github.io/3DTextR3F/) in your web browser.
